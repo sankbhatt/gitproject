@@ -2,3 +2,4 @@ hey, lets try to add this file to github
 
 quit
 i think this file should have some more decent content
+i am not able to see any comments in the file.. :O
