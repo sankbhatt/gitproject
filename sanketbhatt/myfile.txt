@@ -1,3 +1,4 @@
 hey, lets try to add this file to github
 
 quit
+i think this file should have some more decent content
